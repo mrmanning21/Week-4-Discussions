@@ -43,7 +43,7 @@ public class Box2 {
 		System.out.println("It's time to invoke the overload: ");
 	     
 		//print this overload method.
-		starBox.printBox('b');
+		starBox.printBox('c');
 	}
 
 }
